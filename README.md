@@ -15,7 +15,7 @@ The proposed ITSU-EfficientNet is assessed based on various evaluation measures 
 
 # Architecture
 
-
+![itsu_efficientnet](https://github.com/khajaraouf/Segmentation_ITSU_EfficientNet/assets/70451209/4966dfde-7296-4dff-bdfe-d2b1c2e6c458)
 
 # Reference Papers
 
