@@ -3,6 +3,7 @@
 
 - [@khajaraouf](https://www.github.com/khajaraouf)
 
+https://thesai.org/Publications/ViewPaper?Volume=14&Issue=5&Code=IJACSA&SerialNo=95
 
 # ITSU-EfficientNetB7 
 
